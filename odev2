@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Ödev2</title>
+</head>
+<body>
+<h1>Mehmet MADRAN</h1> 
+<h4>Hakkımda</h4>
+<p>Merbaha, Ben Mehmet. Bilgisayar Programcılığı mezunuyum. Grafik tasarım işleri ile ilgileniyorum.</p>
+<ol>
+	<li>1. Film
+        			<ul type="circle">
+					<li><a href="https://www.imdb.com/title/tt0118715/" target="_blank">Big Lebowski</a> </li>
+					<li>The Blues Brothers</li>
+					<li>Neredesin Firuze</li>
+				</ul>
+			</li>
+
+            <li>Dizi
+                <ul type="circle">
+                <li>Yalı Çapkını</li>
+                <li>Uzak Şehir</li>
+                <li>Kardeşlerim</li>
+            </ul>
+        </li>
+
+        <li>Kitap
+            <ul type="circle">
+            <li><a href="https://www.goodreads.com/book/show/11085413-serenad?from_search=true&from_srp=true&qid=X20KCGOr1U&rank=1" target="_blank">Serenad</a></li>
+            <li>Huzursuzluk</li>
+            <li>Kardeşimin Hikayesi</li>
+        </ul>
+    </li>
+
+    <h1>Sevdiğim Diziler</h1>
+    <h3>Kızıl Goncalar</h3> <br>
+
+     <img src="https://gapgundemicom.teimg.com/crop/1280x720/gapgundemi-com/uploads/2025/01/kizil-goncalar.jpg" title="Kızıl Goncalar Kapak Fotoğrafı" width="700px" height="400px"/> 
+
+</body>
+</html>   
+
